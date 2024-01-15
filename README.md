@@ -154,6 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-lelenguya Sameria -[Github](https://github.com/lelenguyasameria) 
+lelenguya Sameria -[Github](https://github.com/lelenguyasameria)
+was a solo project no any other author 
 ## License
 Public Domain. No copy write protection. 
